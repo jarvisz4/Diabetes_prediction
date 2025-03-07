@@ -1,1 +1,1 @@
-# Diabetes_prediction
+This project builds a system that can predict whether a person has diabetes or not with the help of Machine Learning. This project is done in Python. In this project, Support Vector Machine model is being used for the prediction.
